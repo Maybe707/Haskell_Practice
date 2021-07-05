@@ -1,0 +1,4 @@
+2021-04-03 13:26:27.763238014000 [45881(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/cyberdemon/Coding/Haskell/project_stack/app/Main.hs> [("Main","/home/cyberdemon/Coding/Haskell/project_stack/test/Spec.hs")])
+2021-04-03 16:38:39.192632190000 [64065(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/cyberdemon/Coding/Haskell/project_stack/src/Lib.hs> [])
+2021-04-03 16:38:39.284051322000 [64065(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2021-04-03 16:46:33.931378229000 [64753(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
